@@ -5,7 +5,7 @@ Aturan pengisian:
 - Jangan ubah nama fungsi.
 
 Format jawaban:
-- T/F    -> bool  (True=Benar, False=Salah)
+- T/F    -> bool  ()
 - MC     -> str   ("A"/"B"/"C"/"D")
 - Numeric-> int/float (desimal pakai '.')
 """
